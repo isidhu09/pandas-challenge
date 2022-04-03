@@ -1,0 +1,9 @@
+Observable trends based on the data:
+
+1) Charter schools have the top five highest overall passing percentage while District schools have the bottom five lowest 
+	- An improvement in math scores for District schools will help boost overall pass rates
+
+2) Less than 2pts difference in math and reading averages across grade level 
+
+3) Less spend per student has a higher overall pass percent and the optimal school size should be 2000 and below
+   
